@@ -1,0 +1,14 @@
+{
+  "name": "ai-gpushare-root",
+  "version": "1.0.0",
+  "description": "AI-GPUShare: Intelligent Distributed GPU Marketplace",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix frontend run start",
+    "lint": "npm --prefix frontend run lint"
+  },
+  "keywords": ["gpu", "marketplace", "ai", "machine-learning"],
+  "author": "Prajwal",
+  "license": "MIT"
+}
