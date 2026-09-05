@@ -28,9 +28,8 @@ services:
     envVars:
       - key: NODE_VERSION
         value: 18.20.0
-      - key: NEXT_PUBLIC_API_URL
+      - key: NEXT_PUBLIC_API_HOST
         fromService:
           type: web
           name: ai-gpushare-backend
-          property: url
-          path: /api/v1
+          property: host
