@@ -1,0 +1,6 @@
+strategy,total_jobs,success_rate_percent,failure_rate_percent,avg_cost_per_job,avg_runtime_hours_per_job,total_cost,total_runtime_hours
+RANDOM,250,96.8,3.2,30.24,0.82,7318.65,198.27
+CHEAPEST,250,96.4,3.6,30.91,1.23,7449.16,296.81
+FASTEST,250,98.0,2.0,35.64,0.35,8732.15,84.84
+AVAILABILITY,250,97.6,2.4,33.3,0.4,8126.39,97.08
+AI_SCHEDULER,250,96.0,4.0,32.17,0.54,7719.63,129.86
